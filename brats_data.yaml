@@ -1,0 +1,6 @@
+train: /home/alex/Desktop/Ml_project/Yolo_Project/brats/images/train
+val: /home/alex/Desktop/Ml_project/Yolo_Project/brats/images/val
+test: /home/alex/Desktop/Ml_project/Yolo_Project/brats/images/test
+
+nc: 1  #number of classes
+names: ['tumor']  
